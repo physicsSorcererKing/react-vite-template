@@ -1,16 +1,25 @@
 {
   "name": "react-vite-template",
   "version": "0.1.0",
-  "private": "true",
+  "license": "MIT",
+  "author": "physicsSorcererKing",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "lint": "eslint . --ext js,jsx,ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "prepare": "husky install"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "eslint",
+    "prettier",
+    "husky",
+    "lint-staged",
+    "template"
+  ],
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
