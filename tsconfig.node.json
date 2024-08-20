@@ -18,5 +18,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["**.mts", "**.mjs", "**.json"]
+  "include": ["**.ts", "**.mts"]
 }
