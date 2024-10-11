@@ -26,6 +26,11 @@ This template includes the following features:
 - Husky 9 & Lint-staged 15
   - Integrated into a workflow that executes ESLint and Prettier in a pre-commit hook.
 
+## Notes
+
+- eslint-plugin-react-hooks: use rc version to fit ESLint 9 flat config. Wating for the official release.
+- micromatch: can be removed after the official release of eslint-plugin-unused-imports fixs dependency issue.
+
 ## Requirements
 
 This project requires one of the following Node.js versions:
