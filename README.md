@@ -28,7 +28,6 @@ This template includes the following features:
 
 ## Notes
 
-- eslint-plugin-react-hooks: use rc version to fit ESLint 9 flat config. Wating for the official release.
 - micromatch: can be removed after the official release of eslint-plugin-unused-imports fixs dependency issue.
 
 ## Requirements
@@ -37,7 +36,7 @@ This project requires one of the following Node.js versions:
 
 - ^18.18.0
 - ^20.9.0
-- =21.1.0
+- \>=21.1.0
 
 To get started using these tools, you'll need to install the required Node.js version on your system. Please refer to the Node.js [official documentation](https://nodejs.org/) on how to do so.
 
