@@ -49,8 +49,8 @@ importers:
         specifier: ^7.35.0
         version: 7.35.0(eslint@9.9.0)
       eslint-plugin-react-hooks:
-        specifier: 5.1.0-rc-70fb1363-20241010
-        version: 5.1.0-rc-70fb1363-20241010(eslint@9.9.0)
+        specifier: ^5.0.0
+        version: 5.0.0(eslint@9.9.0)
       eslint-plugin-react-refresh:
         specifier: ^0.4.9
         version: 0.4.9(eslint@9.9.0)
@@ -770,8 +770,8 @@ packages:
   eslint-plugin-no-relative-import-paths@1.5.5:
     resolution: {integrity: sha512-UjudFFdBbv93v0CsVdEKcMLbBzRIjeK2PubTctX57tgnHxZcMj1Jm8lDBWoETnPxk0S5g5QLSltEM+511yL4+w==}
 
-  eslint-plugin-react-hooks@5.1.0-rc-70fb1363-20241010:
-    resolution: {integrity: sha512-ACpE3p5orWvc0bh5qsH65ujmM1xrPTSTmB73EGR9fn5QTqNmoHNEA5kC9f4Z9FP9rm0E9tvrFgRw2/UfoqdxIQ==}
+  eslint-plugin-react-hooks@5.0.0:
+    resolution: {integrity: sha512-hIOwI+5hYGpJEc4uPRmz2ulCjAGD/N13Lukkh8cLV0i2IRk/bdZDYjgLVHj+U9Z704kLIdIO6iueGvxNur0sgw==}
     engines: {node: '>=10'}
     peerDependencies:
       eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0 || ^9.0.0
@@ -2353,7 +2353,7 @@ snapshots:
 
   eslint-plugin-no-relative-import-paths@1.5.5: {}
 
-  eslint-plugin-react-hooks@5.1.0-rc-70fb1363-20241010(eslint@9.9.0):
+  eslint-plugin-react-hooks@5.0.0(eslint@9.9.0):
     dependencies:
       eslint: 9.9.0
 
