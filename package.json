@@ -3,6 +3,9 @@
   "version": "1.0.4",
   "license": "MIT",
   "author": "physicsSorcererKing",
+  "contributors": [
+    "physicsSorcererKing"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

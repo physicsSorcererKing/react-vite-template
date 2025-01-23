@@ -1,6 +1,8 @@
 # React Vite Template
 
-#### This template provides a basic setup for developing React applications using Vite with TypeScript.
+## Please change package.json [name, version, license, author] fields to yours.
+
+### This template provides a basic setup for developing React applications using Vite with TypeScript.
 
 ---
 
@@ -8,9 +10,9 @@
 
 This template includes the following features:
 
-- TypeScript 5.5
+- TypeScript 5.7
   - Fully integrated TypeScript support for both development and building processes.
-- React 18
+- React 19
   - This project is set up for the latest version of React, providing the best performance and optimal developer experience.
 - ESLint 9
   - This project uses ESLint for static code analysis to quickly find problems. It includes setups for:
@@ -19,7 +21,7 @@ This template includes the following features:
     - Unused Imports Auto-Removal
     - Sorted Imports
     - Prettier Integration
-- Vite 5
+- Vite 6
   - For bundling and development, this template uses Vite which is known for its fast Hot Module Replacement (HMR).
     - @vitejs/plugin-react-swc: Swc helps us to supercharge our JavaScript build pipeline. It has similar functionality to Babel but is faster.
     - Alias paths '@' feature to simplify import statements in your project.
